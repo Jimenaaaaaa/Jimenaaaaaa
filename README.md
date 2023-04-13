@@ -6,7 +6,7 @@ Who am I?
 
 Former illustrator, ceramist, and artist in general.
 
-I have always been curious about programming, many years ago I started learning a little of C# to make my own games, and much time had to pass for me to start learning code seriously. On november 2022 I joined ISDI Coders full-stack web developer bootcamp in Madrid, and inmediately fell in love with programming 😍
+I have always been curious about programming, many years ago I started learning a little of C# to make my own games, and much time had to pass for me to start learning code seriously. With time I grew tired of my job as a ceramist, and I decided to make a change, I joined ISDI Coders full-stack web developer bootcamp in Madrid on november 2022 and inmediately fell in love with programming 😍
 
 ## 👉 Languages and tools I use:
 
